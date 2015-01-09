@@ -1,8 +1,8 @@
 {
   "name": "grunt-fetch-locales",
-  "description": "The best Grunt plugin ever.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/cenda/grunt-fetch-locales",
+  "description": "Download remote localization files with grunt",
+  "version": "0.1.2",
+  "homepage": "https://github.com/junajan/grunt-fetch-locales",
   "author": {
     "name": "junajan",
     "email": "mail@janjuna.cz",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cenda/grunt-fetch-locales.git"
+    "url": "git://github.com/junajan/grunt-fetch-locales.git"
   },
   "bugs": {
-    "url": "https://github.com/cenda/grunt-fetch-locales/issues"
+    "url": "https://github.com/junajan/grunt-fetch-locales/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/cenda/grunt-fetch-locales/blob/master/LICENSE-MIT"
+      "url": "https://github.com/junajan/grunt-fetch-locales/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
