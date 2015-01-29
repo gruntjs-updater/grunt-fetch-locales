@@ -1,7 +1,7 @@
 {
   "name": "grunt-fetch-locales",
   "description": "Download remote localization files with grunt",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "https://github.com/junajan/grunt-fetch-locales",
   "author": {
     "name": "junajan",

@@ -29,7 +29,7 @@ module.exports = function(grunt) {
     },
 
     // Configuration to be run (and then tested).
-    fetch_locales: {
+    fetchLocales: {
       default_options: {
         options: {
           sourceConfig: "testConfig.js",
